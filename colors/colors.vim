@@ -1,3 +1,5 @@
+hi Normal ctermfg=7 ctermbg=236
+
 hi Comment ctermfg=247
 hi Constant ctermfg=10
 hi Special ctermfg=208
