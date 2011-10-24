@@ -9,6 +9,8 @@ if exists("syntax_on")
     syntax reset
 endif
 
+let g:colors_name="springforest"
+
 hi Normal ctermfg=7 ctermbg=236
 
 hi Comment ctermfg=247
