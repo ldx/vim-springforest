@@ -1,3 +1,9 @@
+"
+" Vim 256 color terminal scheme
+"
+" Maintainer: ldx <ldx@nilvec.com>
+"
+
 hi Normal ctermfg=7 ctermbg=236
 
 hi Comment ctermfg=247
