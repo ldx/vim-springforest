@@ -3,9 +3,9 @@ hi Normal ctermfg=7 ctermbg=236
 hi Comment ctermfg=247
 hi Constant ctermfg=10
 hi Special ctermfg=208
-hi Identifier ctermfg=71
+hi Identifier ctermfg=139
 hi Statement ctermfg=45
-hi PreProc ctermfg=77
+hi PreProc ctermfg=85
 hi Type ctermfg=141
 hi Ignore ctermfg=236
 hi Error ctermbg=1 ctermfg=15
